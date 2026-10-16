@@ -1,0 +1,22 @@
+{
+  "short_name": "Ezza AI",
+  "name": "Ẹzza Companion & Cultural Custodian",
+  "description": "Interactive, voice-first language tutor, Bible companion, and cultural custodian for the Ezza people.",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/isometric/192/cultural.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/isometric/512/cultural.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#181512",
+  "theme_color": "#D4AF37",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}

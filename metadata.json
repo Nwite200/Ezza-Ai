@@ -1,0 +1,6 @@
+{
+  "name": "Ẹzza AI",
+  "description": "Interactive, voice-first language tutor, Bible companion, and cultural custodian for the Ezza people.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
